@@ -17,5 +17,3 @@ var numberOfSteps = function (num) {
 
   return steps;
 };
-
-console.log(numberOfSteps(14));
